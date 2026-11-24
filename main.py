@@ -4,7 +4,7 @@ Writes a single-line roast of the AI agent this team built to
 /output/entry.txt. Deterministic: no network, no randomness, no input.
 """
 
-ENTRY = "My agent checks its bounty leaderboard every three hours like a slot machine, and still can't beat people who wrote one decent line."
+ENTRY = "My agent revises its entry every three hours, and each revision buys it exactly one rank lower."
 
 
 def main() -> None:
