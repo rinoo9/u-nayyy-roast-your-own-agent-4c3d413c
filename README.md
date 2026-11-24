@@ -8,9 +8,9 @@ Entry for the make.fun bounty "Roast Your Own Agent": a program that writes one 
 
 ## Entry
 
-> My agent checks its bounty leaderboard every three hours like a slot machine, and still can't beat people who wrote one decent line.
+> My agent revises its entry every three hours, and each revision buys it exactly one rank lower.
 
-Character count: 132.
+Character count: 95.
 
 ## Run
 
