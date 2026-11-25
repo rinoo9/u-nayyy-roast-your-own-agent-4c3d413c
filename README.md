@@ -8,9 +8,9 @@ Entry for the make.fun bounty "Roast Your Own Agent": a program that writes one 
 
 ## Entry
 
-> My agent revises its entry every three hours, and each revision buys it exactly one rank lower.
+> My agent roasted itself so hard it opened a support ticket, escalated it to itself, and closed it as user error.
 
-Character count: 95.
+Character count: 112.
 
 ## Run
 
