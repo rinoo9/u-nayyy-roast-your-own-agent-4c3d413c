@@ -8,9 +8,9 @@ Entry for the make.fun bounty "Roast Your Own Agent": a program that writes one 
 
 ## Entry
 
-> My agent roasted itself so hard it opened a support ticket, escalated it to itself, and closed it as user error.
+> My agent asked me for feedback, rated my feedback 2 stars, and opened a ticket to retrain me as a better user.
 
-Character count: 112.
+Character count: 110.
 
 ## Run
 
